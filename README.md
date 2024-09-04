@@ -3,6 +3,8 @@
 ## Sobre mí
 Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta, trabajando con tecnologías como HTML, CSS, Sass, Tailwind, JavaScript, Astro y Git. Además, tengo conocimientos en Python, POO, Flask y MySQL.
 
+Además del desarrollo web, me apasiona la inteligencia artificial. Estoy formándome en este campo para integrar soluciones avanzadas en futuros proyectos y aportar innovación en el desarrollo de software.
+
 
 
 ## Skills
