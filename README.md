@@ -1,9 +1,9 @@
 ![Baneer de Ezequiel Suarez](Banner-Ezequiel.png)
 
 # Sobre mí
-Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta, trabajando con tecnologías como HTML | CSS | Sass | Tailwind | JavaScript | TypeScript | Astro | Python, POO | Git |
+Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta.
 
-Además del desarrollo web, me apasiona la inteligencia artificial. Estoy formándome en este campo para integrar soluciones avanzadas en futuros proyectos y aportar innovación en el desarrollo de software.
+Además del desarrollo web, me apasiona la inteligencia artificial. ctualmente, estoy cursando una especialización en España de Machine Learning y Deep Learning con Python, enfocándome en integrar soluciones avanzadas e innovadoras en futuros proyectos de software.
 
 # Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
