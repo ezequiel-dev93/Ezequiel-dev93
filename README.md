@@ -1,7 +1,7 @@
 ![Baneer de Ezequiel Suarez](Banner-Ezequiel.png)
 
 # Sobre mí
-Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta, trabajando con tecnologías como HTML | CSS | Sass | Tailwind | JavaScript | TypeScript | Astro | Git. Además, tengo conocimientos en | Python, POO |
+Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta, trabajando con tecnologías como HTML | CSS | Sass | Tailwind | JavaScript | TypeScript | Astro | Python, POO | Git |
 
 Además del desarrollo web, me apasiona la inteligencia artificial. Estoy formándome en este campo para integrar soluciones avanzadas en futuros proyectos y aportar innovación en el desarrollo de software.
 
