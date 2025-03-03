@@ -1,5 +1,3 @@
-![Baneer de Ezequiel Suarez](Banner-Ezequiel.png)
-
 # Sobre mí
 Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta.
 
@@ -23,5 +21,4 @@ Además del desarrollo web, me apasiona la inteligencia artificial. ctualmente, 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielsuarez.dev@gmail.com)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
 
-
-
+ 
