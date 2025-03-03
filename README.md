@@ -1,7 +1,16 @@
-# Sobre mí
-Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta.
+<div align="center">
+ <h1>👋 Hey, Soy Eze👨🏻‍💻</h1>
+</div>
 
+<h1>Sobre mí</h1>
+
+<p>
+Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta. 
+</p>
+
+<p> 
 Además del desarrollo web, me apasiona la inteligencia artificial. ctualmente, estoy cursando una especialización en España de Machine Learning y Deep Learning con Python, enfocándome en integrar soluciones avanzadas e innovadoras en futuros proyectos de software.
+</p>
 
 # Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
