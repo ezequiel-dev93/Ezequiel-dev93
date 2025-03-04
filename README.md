@@ -5,7 +5,7 @@
 <h1>Sobre mí</h1>
 
 <p>
- Soy un estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta. 
+Estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta. 
 </p>
 
 <p> 
