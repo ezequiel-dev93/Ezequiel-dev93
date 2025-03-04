@@ -40,4 +40,4 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
 
 # Las estadisticas del repositorio
-[![Ezequiel Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequiel-dev93&show_icons=true&theme=transparent)]  
+![Ezequiel Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequiel-dev93&show_icons=true&theme=transparent)
