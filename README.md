@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el d
 </p>
 
 <p> 
-  Además del desarrollo web, me apasiona la inteligencia artificial. Actualmente, estoy cursando una especialización en España en Machine Learning y Deep Learning con Python, enfocándome en integrar soluciones    avanzadas e innovadoras en futuros proyectos de software.
+  Además del desarrollo web, me apasiona la inteligencia artificial. Actualmente, estoy cursando una especialización en España en Machine Learning y Deep Learning con Python, para enfocándome en integrar soluciones    avanzadas e innovadoras en futuros proyectos de software.
 </p>
 
 # 🚀 Skills
