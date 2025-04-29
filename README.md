@@ -1,9 +1,13 @@
 <div align="center">
  <h1>👋 Hey, Soy Eze👨🏻‍💻</h1>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ezequiel-suarez-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielsuarez.dev@gmail.com)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
 </div>
 
 <h1>Sobre mí</h1>
-
+<img align="right"width=250px src="img-portfolio.jpg" alt="Imágen Portafolio">
 <p>
 Estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta. 
 </p>
@@ -33,11 +37,6 @@ Estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el d
 
 ### 🛠️ Herramientas y Control de Versiones  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-# Social
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ezequiel-suarez-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielsuarez.dev@gmail.com)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
 
 # Las estadisticas del repositorio
 ![Ezequiel Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequiel-dev93&show_icons=true&theme=transparent)
