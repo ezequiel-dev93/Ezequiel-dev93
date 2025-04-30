@@ -1,20 +1,28 @@
-<div align="center">
  <h1>👋 Hey, Soy Eze👨🏻‍💻</h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ezequiel-suarez-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielsuarez.dev@gmail.com)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
-</div>
+
+
 
 <h1>Sobre mí</h1>
 <img align="right"width=250px src="img-portfolio.jpg" alt="Imágen Portafolio">
 <p>
-Estudiante de Ingeniería en Sistemas de Información. Comencé mi viaje en el desarrollo web hace dos años, y durante este tiempo he fortalecido mis habilidades técnicas de forma autodidacta. 
+💻 Desarrollador Front-End con 2 años de experiencia, enfocado en el rendimiento, la accesibilidad, el diseño responsive y las buenas prácticas de desarrollo. Busco oportunidades desafiantes donde pueda aportar valor, seguir creciendo profesionalmente y contribuir activamente dentro de equipos colaborativos.
+
 </p>
 
 <p> 
-  Además del desarrollo web, me apasiona la inteligencia artificial. Actualmente, estoy cursando una especialización en España en Machine Learning y Deep Learning con Python.
+  📚 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN, Argentina), una formación que me brinda una base sólida en estructuras, lógica computacional.
 </p>
+
+<p>
+ 
+🧠 Actualmente resido en España, donde estoy realizando una especialización en Inteligencia Artificial, Machine Learning, Deep Learning y Procesamiento de Lenguaje Natural (NLP) con Python.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ezequiel-suarez-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielsuarez.dev@gmail.com)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%20Ezequiel%20Suárez-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ezequielsuarez-dev.com/)
 
 # 🚀 Skills
 
