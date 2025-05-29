@@ -1,6 +1,7 @@
- <h1>👋 Hey, Soy Eze👨🏻‍💻</h1>
+ #👋 Hey, Soy Eze👨🏻‍💻
 
-
+## Ingeniero en Sistemas en formación + Aspirante a IA
+**`Frontend Developer → Futuro Full Stack Python | Especialista en Python |`**
 
 
 <h1>Sobre mí</h1>
