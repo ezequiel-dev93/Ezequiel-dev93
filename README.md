@@ -1,4 +1,4 @@
-#👋 Hey, Soy Eze👨🏻‍💻
+<h1>👋 Hey, Soy Eze👨🏻‍💻</h1>
 
 ## Ingeniero en Sistemas de Información en formación + Aspirante a IA
 **`Frontend Developer → Futuro Full Stack Node Js | Especialista en Python |`**
