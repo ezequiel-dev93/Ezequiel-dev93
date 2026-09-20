@@ -1,65 +1,68 @@
-<h1>👋 Hey, Soy Eze👨🏻‍💻</h1>
-
-## Ingeniero en Sistemas de Información en formación + Aspirante a IA
-**`Frontend Developer → Futuro Full Stack Next Js | Especialista en Python |`**
-
-<h1>Sobre mí</h1>
-<p>
-💻 Desarrollador Front-End con 2 años de experiencia, enfocado en el rendimiento, la accesibilidad, el diseño responsive y las buenas prácticas de desarrollo. Busco oportunidades desafiantes donde pueda aportar valor, conococimientos, seguir creciendo profesionalmente y contribuir activamente dentro de equipos colaborativos.
-
+<p align="center">
+  <img src="./banner-github.svg" alt="Ezequiel Suarez - Desarrollador de Software" width="100%">
 </p>
 
-<p> 
-  📚 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN, Argentina), una formación que me brinda una base sólida en estructuras, lógica computacional.
+# 👋 ¡Hola! Soy Ezequiel Suárez
+
+**Desarrollador de Software** con más de 3 años de experiencia, con un fuerte enfoque en el **Frontend** y una sólida expansión hacia arquitecturas **Backend y Cloud con AWS**.
+
+Combino mis bases teóricas en Ingeniería en Sistemas de Información con una visión orientada a producto y negocio. Construyo aplicaciones modernas integrando **Astro, Next.js, React y TypeScript** en la interfaz, con servicios desacoplados en **Python, FastAPI, bases de datos y arquitectura en la nube** en el backend.
+
+---
+
+### 🚀 Proyectos Destacados & Productos Digitales
+
+* ⚡ **[FastAPI SaaS Boilerplate (Enterprise Edition)](https://www.ezequielsuarez-dev.com/)** *(Comercial en Lemon Squeezy)*  
+  Motor backend *production-ready* para lanzar SaaS B2B en tiempo récord. Integra autenticación dual con AWS Cognito (RS256), facturación e idempotencia con Stripe, colas asíncronas con Redis y control de acceso RBAC bajo principios de *Screaming Architecture* con 44 tests automatizados.
+
+* 🎬 **SaaS de Automatización de Video Multi-Tenant**  
+  Plataforma orientada a orquestar generación de contenido audiovisual para redes sociales mediante jobs distribuidos, DDD Light, procesamiento asincrónico y desacoplamiento de servicios de extremo a extremo.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| Área | Tecnologías |
+|---|---|
+| **Frontend** | Next.js · React · Astro · TypeScript · Tailwind CSS · Sass |
+| **Backend & APIs** | Python · FastAPI · SQLAlchemy · REST APIs · Clean Architecture |
+| **Cloud & DevOps** | AWS (Cognito, SES) · Docker · CI/CD (GitHub Actions) |
+| **Bases de Datos & Colas** | PostgreSQL · MySQL · Redis (ARQ Workers) |
+
+---
+
+### 💼 ¿Trabajamos juntos?
+
+**🚀 Disponible para proyectos freelance y posiciones remotas**  
+*"Si buscas a un desarrollador proactivo, con visión global de producto y foco en escalabilidad, ¡hablemos!"*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Open_to_Work-Freelance%20%2F%20Remoto-2ECC71?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Disponibilidad-Remoto%20Global-00B4D8?style=flat-square" alt="Disponibilidad" />
 </p>
 
-<p>
-🧠 Actualmente resido en España, donde estoy realizando una especialización en Inteligencia Artificial, Machine Learning, Deep Learning y Procesamiento de Lenguaje Natural (NLP) con Python.
+### 📫 Canales de Contacto
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ezequiel-suarez-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ezequiel--suarez--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.ezequielsuarez-dev.com/#contactos" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ezequielsuarez--dev.com-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ezequielsuarez.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ezequielsuarez.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://ezequiel-dev.slack.com/archives/C076K9VH1M0" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-Chat_Directo-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ezequiel-suarez-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequielsuarez.dev@gmail.com)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ezequiel-dev.slack.com/archives/C076K6KB4AF)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%20Ezequiel%20Suárez-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ezequielsuarez-dev.com/)
+---
 
-# 🚀 Skills
+### 📊 Actividad en GitHub
 
-### 👨‍💻 Frontend 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
-
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### 🌱 Aprendiendo Ahora
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-25C2A0?logo=jest&logoColor=white)
-
-### 🛠️ Herramientas y Control de Versiones  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#
-💼 ¿Trabajamos juntos?
-
-**🚀 Disponible para proyectos freelance/remotos**  
-*"Si necesitas un desarrollador que piense fuera del código, ¡hablemos! 🌟"*
-
-![Open to Work](https://img.shields.io/badge/Open_to_Work-Freelance/Remoto-2ECC71)  
-![Availability](https://img.shields.io/badge/Disponibilidad-UTC%2B1_(España)-blueviolet)
-
-### 📫 Contáctame
-[![Website Contact](https://img.shields.io/badge/📩_Formulario_de_Contacto-FF7139?logo=google-forms)](https://www.ezequielsuarez-dev.com/#contactos)
-[![LinkedIn](https://img.shields.io/badge/Contacto_LinkedIn-0A66C2?logo=linkedin&logoColor=white)](tu-url-linkedin)  
-[![Email](https://img.shields.io/badge/Email_Profesional-EA4335?logo=gmail&logoColor=white)](mailto:tu-email@example.com)  
-[![Slack](https://img.shields.io/badge/Chat_por_Slack-4A154B?logo=slack&logoColor=white)](tu-enlace-slack)
-
-# Las estadisticas del repositorio
-![Ezequiel Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequiel-dev93&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezequiel-dev93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080E1F&title_color=00B4D8&icon_color=10B981&text_color=94A3B8" alt="Ezequiel Dev GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel-dev93&layout=compact&theme=tokyonight&hide_border=true&bg_color=080E1F&title_color=00B4D8&text_color=94A3B8" alt="Top Languages" width="42%" />
+</p>
