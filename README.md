@@ -33,7 +33,7 @@ Mi enfoque principal es el desarrollo de software bien estructurado: combino int
   Núcleo backend *production-ready* para acelerar el lanzamiento de plataformas SaaS B2B escalables.  
   * **Arquitectura & Patrones:** Diseño modular bajo principios *SOLID* y *Screaming Architecture*, con desacoplamiento de servicios e integración de IA en streaming.  
   * **Seguridad & Facturación:** Autenticación dual RS256 con AWS Cognito, control RBAC y suscripciones con webhooks idempotentes en Stripe.  
-  * **Asincronía & Calidad:** Procesamiento en segundo plano con Redis (ARQ) y 44 tests automatizados.
+  * **Asincronía & Calidad:** Procesamiento en segundo plano con Redis (ARQ) y 183 tests automatizados.
 
 * 🎬 **Plataforma SaaS Multi-Tenant de Automatización de Video con IA (Reelify)**  
   Aplicación distribuida para la generación y orquestación automatizada de contenido audiovisual.  
